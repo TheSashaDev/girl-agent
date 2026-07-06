@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.9
+
+Дата: 2026-07-06
+
+- Revise author info and add Telegram account update
+- Revise README with new contact details and updates
+
+
 ## 0.4.8
 
 Дата: 2026-06-26
