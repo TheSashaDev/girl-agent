@@ -7,7 +7,7 @@
 **ИИ-девушка в Telegram, которая ведёт себя как человек.**
 Со сном, расписанием, памятью, характером — и без «конечно, я понимаю».
 
-[Сайт](https://girl-agent.com) · [Документация](https://docs.girl-agent.com) · [Канал](https://t.me/GirlAgentAI) · [Сообщество](https://t.me/GirlAgentAI_chat) · --[Автор: @wamux](https://t.me/wamux)--
+[Сайт](https://girl-agent.com) · [Документация](https://docs.girl-agent.com) · [Канал](https://t.me/GirlAgentAI) · [Сообщество](https://t.me/GirlAgentAI_chat) · ~[Автор: @wamux](https://t.me/wamux)~
 
 МОЙ ТГ ЗАБЛОКИРОВАЛИ!!! АКТУАЛЬНЫЙ МОЙ ЛС ТГ - @randomchik12
 Группа вместе с каналом были тоже заморожены администрацией ТГ. Я подал аппеляцию, если по исходу 3-5 дней не будет результата - создам новую группу и канал.
