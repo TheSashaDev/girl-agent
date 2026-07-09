@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.10
+
+Дата: 2026-07-09
+
+- Fix formatting in README.md links section
+- Revise README with new contact and community links
+
+
 ## 0.4.9
 
 Дата: 2026-07-06
