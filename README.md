@@ -18,7 +18,7 @@
 
 ---
 
-> Это бета. Со всеми проблемами и багами — в [Issues](https://github.com/TheSashaDev/girl-agent/issues) или [@voided_net](https://t.me/voided_net).
+> Это бета. Со всеми проблемами и багами — в [Issues](https://github.com/TheSashaDev/girl-agent/issues).
 
 ## О проекте
 
