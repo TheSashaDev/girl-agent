@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.11
+
+Дата: 2026-07-09
+
+- Update beta section in README
+
+
 ## 0.4.10
 
 Дата: 2026-07-09
