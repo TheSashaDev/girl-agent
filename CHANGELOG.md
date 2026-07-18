@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.12
+
+Дата: 2026-07-18
+
+- Fix image link and update Telegram channel
+
+
 ## 0.4.11
 
 Дата: 2026-07-09
